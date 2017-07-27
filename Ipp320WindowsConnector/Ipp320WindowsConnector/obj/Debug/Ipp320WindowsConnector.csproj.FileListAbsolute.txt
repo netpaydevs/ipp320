@@ -1,0 +1,52 @@
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.pdb
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csprojResolveAssemblyReference.cache
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Form1.resources
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Properties.Resources.resources
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csproj.GenerateResource.Cache
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.exe
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.pdb
+c:\users\vanja\documents\visual studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320Connector.pdb
+C:\Users\Vanja\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320Connector.dll
+C:\Users\Vanja\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Vanja\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.exe
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.pdb
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.pdb
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csprojResolveAssemblyReference.cache
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Form1.resources
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Properties.Resources.resources
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csproj.GenerateResource.Cache
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.FormNew6210.resources
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe.config
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\PinpadConnector.dll
+C:\Users\arturosantibanez\Documents\Visual Studio 2015\Projects\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\PinpadConnector.pdb
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe.config
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.exe
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.pdb
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.pdb
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\PinpadConnector.dll
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.pdb
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Newtonsoft.Json.xml
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\PinpadConnector.pdb
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csprojResolveAssemblyReference.cache
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Form1.resources
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.FormNew6210.resources
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Properties.Resources.resources
+D:\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csproj.GenerateResource.Cache
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Form1.resources
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.FormNew6210.resources
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.Properties.Resources.resources
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csproj.GenerateResource.Cache
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe.config
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.exe
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320WindowsConnector.pdb
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320Connector.dll
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\bin\Debug\Ipp320Connector.pdb
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.csprojResolveAssemblyReference.cache
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.exe
+C:\Users\Ing.Angel\Desktop\PinpadsOriginal\Ipp320WindowsConnector\Ipp320WindowsConnector\obj\Debug\Ipp320WindowsConnector.pdb
